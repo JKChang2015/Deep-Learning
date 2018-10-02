@@ -1,3 +1,3 @@
 # Deep-Learning
 ---
-![DeepLearning](/resources/deep learning.jpg)
+![DeepLearning](/resources/deep_learning.jpg)
